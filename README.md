@@ -35,7 +35,7 @@ O conjunto de dados abrange uma coleção abrangente de informações salariais 
 - Nessa primeira análise busquei fazer uma alteração nos nomes dos cargos. Porquê?
 - Porque existem cargos com nomes distintos mas com skills semelhantes.
 
-![My Image](images/dashboard.png)
+![My Image]("images/dashboard.png")
 
 > Link: [Dashboard](https://app.powerbi.com/view?r=eyJrIjoiNjUzNzM4MzAtYWI5My00ZTQ1LWE5ZjItNzc2YzQzZDUwZTg3IiwidCI6IjZjY2E5MGExLTkzYTAtNDNlYS05YTA0LTZjZDU3MmFiZjlmMCJ9)
 
