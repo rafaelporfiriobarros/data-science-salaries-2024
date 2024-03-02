@@ -28,7 +28,7 @@ O conjunto de dados abrange uma coleção abrangente de informações salariais 
 | `company_location` | A localização geográfica da organização empregadora. |
 | `company_size` | O tamanho da empresa, categorizado pelo número de funcionários. |
 
-> Regras: Não será limitado à nenhuma ferramenta! Se for preciso adiocionar dados externos, favor adicionar a fonte.
+> Regras: Não será limitado à nenhuma ferramenta! Se for preciso adicionar dados externos, favor adicionar a fonte.
 
 ### Dashboard Inicial
 
